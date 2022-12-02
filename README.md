@@ -10,7 +10,7 @@ I`m just a drill,
  <br> 
  don`t mind me!
 </h3>
-testejsgit-readme-img
+
 ## Hi there 👋
 
 This test with Ejs and body-parser was part of my self-study. Nothing more to say here, you can run on localhost if you like. :)

@@ -1,6 +1,7 @@
-<br>
 
 <h3 align="center">
+☺ 
+<br>
 I`m just a drill,
  <br> 
  don`t mind me!

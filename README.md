@@ -1,7 +1,7 @@
 <br>
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/AndrasE/raw-readme/blob/main/testejsgit-readme-img.png?raw=true" widht="150px">
+  <img src="https://github.com/AndrasE/raw-readme/blob/main/testejsgit-readme-img.png?raw=true" width="87px">
   </a>
 </p>
 

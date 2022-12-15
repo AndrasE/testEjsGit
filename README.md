@@ -13,7 +13,7 @@ I`m just a drill,
 
 ## Hi there 👋
 
-This test with Ejs and body-parser was part of my self-study. <br> Nothing more to say here, you can run on localhost if you like. 🙂
+This test with Ejs and body-parser was part of my self-study. Nothing more to say here, you can run on localhost if you like. 🙂
 
 Take care, code safe! 💻
 
